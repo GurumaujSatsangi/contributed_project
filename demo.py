@@ -1,1 +1,1 @@
-print("Hello World guru land")
+print("Hello World guru Bhai")
